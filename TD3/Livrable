@@ -1,0 +1,17 @@
+### TD3 - Livrable
+
+
+1. Expliquez le modèle "événement → état → rendu" avec un exemple de votre choix
+    -L'événement permet d'indiquer quel action l'utilisateur doit effectuer pour que cela se produise (Appuie sur le bouton "S'abonner")
+    -L'état indique ce qu'il va se passer suite à cet événement (Le bouton va changer en "Abonné(e))
+    -Le rendu montre ce qui va se passer à l'écran (texte "S'abonner" -> "Abonné(e))
+
+2. Expliquez en quoi classList.toggle est la passerelle entre JS et CSS
+  Il permet à JS d’ajouter/retirer une classe au CSS
+
+
+Je me suis servi de ChatGPT dans le cas de ce TD pour m'aider à réponde ainsi que comprendre certaines questions.
+L'IA m'a été notamment utile pour l'Exercice 2.1 — Décomposer des interactions avec la Situation "Un champ de recherche qui filtre une liste"
+Le prompt était le suivant : "D'après le modèle ÉVÉNEMENT              →    ÉTAT               →    RENDU, résout la situation : "Un champ de recherche qui filtre une liste" 
+et explique en de courte phrase ton raisonnement".
+La réponse était très intéressante, elle m'a permis de mieux comprendre l'état, surtout que je ne comprennais pas ce qu'attendais "filtre une liste".
